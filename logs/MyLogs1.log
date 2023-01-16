@@ -1,0 +1,46 @@
+[INFO ] 2023-01-15 17:54:39.216 [main] LoggingDemo - Info Message Printed
+[ERROR] 2023-01-15 17:54:39.245 [main] LoggingDemo - Error Message Printed
+[FATAL] 2023-01-15 17:54:39.245 [main] LoggingDemo - Fatal Message Printed
+[INFO ] 2023-01-15 18:18:52.724 [main] WebDriverFactory - Driver Binary :: D:\Projects\IdeaProjects\SeleniumFramework//drivers//chromedriver.exe
+[INFO ] 2023-01-15 18:19:13.200 [main] CustomDriver - Element List found with: xpath=>//div[@class="ast-button"]
+[INFO ] 2023-01-15 18:19:19.085 [main] CustomDriver - Clicked On :: Click Login
+[INFO ] 2023-01-15 18:19:19.124 [main] CheckPoint - Clearing Results Hash Map
+[INFO ] 2023-01-15 18:19:19.572 [main] CustomDriver - Send Keys on element :: send email with data :: shim@test.com
+[INFO ] 2023-01-15 18:19:19.983 [main] CustomDriver - Send Keys on element :: send password with data :: 123456
+[INFO ] 2023-01-15 18:19:21.640 [main] CustomDriver - Clicked On :: Click Login
+[INFO ] 2023-01-15 18:19:21.686 [main] CustomDriver - Element List found with: class=>zl-navbar-rhs-img
+[INFO ] 2023-01-15 18:19:21.733 [main] CustomDriver - Element List found with: class=>zl-navbar-rhs-img
+[INFO ] 2023-01-15 18:19:21.757 [main] CheckPoint - Clearing Results Hash Map
+[INFO ] 2023-01-15 18:19:22.203 [main] CustomDriver - Send Keys on element :: send email with data :: shimaa@test.com
+[INFO ] 2023-01-15 18:19:22.491 [main] CustomDriver - Send Keys on element :: send password with data :: 123456
+[INFO ] 2023-01-15 18:19:25.135 [main] CustomDriver - Clicked On :: Click Login
+[INFO ] 2023-01-15 18:19:25.244 [main] CustomDriver -  The text is : ALL COURSES
+[INFO ] 2023-01-15 18:19:25.248 [main] Util - Actual Text From Web Application UI   --> : ALL COURSES
+[INFO ] 2023-01-15 18:19:25.248 [main] Util - Expected Text From Web Application UI --> : All Courses
+[INFO ] 2023-01-15 18:19:25.248 [main] Util - ### Verification Contains !!!
+[INFO ] 2023-01-15 18:19:25.249 [main] CheckPoint - test-01.verify header :-> PASS
+[INFO ] 2023-01-15 18:19:25.280 [main] CustomDriver - Element List found with: class=>zl-navbar-rhs-img
+[INFO ] 2023-01-15 18:19:25.281 [main] CheckPoint - test-01.verify Icon :-> PASS
+[INFO ] 2023-01-15 18:19:25.282 [main] CheckPoint - Test Method Successful
+[INFO ] 2023-01-15 18:19:25.282 [main] CheckPoint - Test Method Successful
+[INFO ] 2023-01-15 18:19:25.314 [main] CustomDriver - Element List found with: class=>zl-navbar-rhs-img
+[INFO ] 2023-01-15 18:19:25.625 [main] CustomDriver - Clicked On :: Account Menu
+[INFO ] 2023-01-15 18:19:29.050 [main] CustomDriver - Clicked On :: Logout
+[INFO ] 2023-01-15 18:19:29.093 [main] CustomDriver - Element List found with: xpath=>//div[@class="ast-button"]
+[INFO ] 2023-01-15 18:19:30.711 [main] CustomDriver - Clicked On :: Login link after logout
+[INFO ] 2023-01-15 18:19:31.669 [main] WebDriverFactory - Driver Binary :: D:\Projects\IdeaProjects\SeleniumFramework//drivers//chromedriver.exe
+[INFO ] 2023-01-15 18:19:39.446 [main] CustomDriver - Element List found with: xpath=>//div[@class="ast-button"]
+[INFO ] 2023-01-15 18:19:42.320 [main] CustomDriver - Clicked On :: Click Login
+[INFO ] 2023-01-15 18:19:42.738 [main] CustomDriver - Send Keys on element :: send email with data :: shimaa@test.com
+[INFO ] 2023-01-15 18:19:43.103 [main] CustomDriver - Send Keys on element :: send password with data :: 123456
+[INFO ] 2023-01-15 18:19:45.051 [main] CustomDriver - Clicked On :: Click Login
+[INFO ] 2023-01-15 18:19:47.275 [main] CheckPoint - Clearing Results Hash Map
+[INFO ] 2023-01-15 18:19:52.506 [main] CustomDriver - Clicked On :: All Courses Link
+[INFO ] 2023-01-15 18:19:53.025 [main] CustomDriver - Send Keys on element :: search courses with data :: rest_api
+[INFO ] 2023-01-15 18:19:53.232 [main] CustomDriver - Clicked On :: Click search
+[INFO ] 2023-01-15 18:19:53.381 [main] CustomDriver - Element List found with: css=>.zen-course-list a
+[INFO ] 2023-01-15 18:19:53.384 [main] CheckPoint - Clearing Results Hash Map
+[INFO ] 2023-01-15 18:19:54.738 [main] CustomDriver - Clicked On :: All Courses Link
+[INFO ] 2023-01-15 18:19:55.134 [main] CustomDriver - Send Keys on element :: search courses with data :: javascript
+[INFO ] 2023-01-15 18:19:55.363 [main] CustomDriver - Clicked On :: Click search
+[INFO ] 2023-01-15 18:19:55.435 [main] CustomDriver - Element List found with: css=>.zen-course-list a

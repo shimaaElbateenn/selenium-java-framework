@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test Suite" preserve-order="true">
+    <test name="Application Test">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="com.letscodeit.testClasses.LoginTests"></class>
+            <class name="com.letscodeit.testClasses.AllCoursesTests"></class>
+        </classes>
+    </test>
+</suite>
