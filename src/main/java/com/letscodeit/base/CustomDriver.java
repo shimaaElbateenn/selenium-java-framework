@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import com.letscodeit.utilities.Constants;
 import com.letscodeit.utilities.Util;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
@@ -671,7 +672,7 @@ public class CustomDriver {
      */
     public String takeScreenshot(String methodName, String browserName) {
         String fileName = Util.getScreenshotName(methodName, browserName);
-        String screenshotDir = System.getProperty("user.dir") + "/screenshots/";
+        String screenshotDir = Constants.REPORTS_DIRECTORY + "/screenshots/";
         new File(screenshotDir).mkdirs();
         String path = screenshotDir +  fileName;
 
